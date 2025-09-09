@@ -1,1 +1,1 @@
-# Tanzania_Water_Wells_Modelling_Project
+# Tanzania_Water_Wells_Modeling_Project
