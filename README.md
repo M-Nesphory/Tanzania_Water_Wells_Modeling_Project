@@ -8,7 +8,7 @@ The project analyses a dataset to predict the status of wells in Tanzania on beh
 ## Repo Structure
 * README.md - Top level summary of the project
 * notebook.ipynb - Detailed Jupyter notebook documentation for the project
-* MajiSafiAid Presentation.pdf - Presentation slides for the project in PDF format
+* MajiSafiAidPresentation.pdf - Presentation slides for the project in PDF format
 * Data Folder - Contains the datasets used in the project
 
 ## Business Problem
